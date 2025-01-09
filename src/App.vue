@@ -150,7 +150,7 @@ export default {
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Detachment #853",
-        "subheaderSubtitle": "13th Squad - The Usual Suspects",
+        "subheaderSubtitle": "ALPHA-LIMA-TANGO-ZULU",
       },
       "options":{
         "eventsMarkdownPerMission": true
