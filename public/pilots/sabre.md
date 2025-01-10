@@ -7,7 +7,6 @@ Determined to honor his grandfather's legacy but with nothing but his blade, Hat
 **TACTICS**
 The Vanguard is a frontline, close-quarters striker that does best in the middle of combat or locking down a choke point.
 
-TACTICS
 
 Starting with the Combined Arms and Executioner talents means you're at your most deadly when engaged in close combat with multiple opponents.
 
