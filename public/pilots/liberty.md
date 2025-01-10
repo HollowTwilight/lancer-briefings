@@ -9,3 +9,15 @@ It was when she was training off-world that she would learn about the destructio
 The mental toll of this, grappled with the harsh realities she would now have to face, pushed Marguerite to her limits. She struggled to reconcile the loss of her noble position with her current role as a soldier. "What use is training to defend, when there's nothing left to protect?" Despite her doubts, she continued her training, showcasing a strategic mind and strong leadership skills once she put her mind to it.
 
 Over time, she would come to be recruited by the Mirrorsmoke Mercenary Company. Their connections and resources were a tempting offer to someone left with none, and so the deal was struck.
+
+**TACTICS**
+
+The Fire Support is a force multiplier and adaptable battlefield commander that can turn the tide of a battle from the backline.
+
+The Fire Support’s most important feature is the Leadership talent, which lets you grant Accuracy to teammates, and should be used judiciously to ensure clutch shots and narrow escapes fall in your favor. 
+
+The Heavy Gunner talent can lock down a dangerous enemy with the extremely powerful Heavy Machine Gun, and the dual Threat 3 Pistols punish enemies who get too close. 
+
+With an expanded Limited capacity, you’re able to deploy additional Turret Drones and Smoke Charges to fortify a control zone or secure a breach into enemy territory.
+
+The Fire Support is especially useful to allied sniper and artillery mechs thanks to Spotter, which improves Lock Ons when they’re consumed adjacent to you, and the Jericho Deployable Cover can transform a sniper nest from exposed to impregnable.
