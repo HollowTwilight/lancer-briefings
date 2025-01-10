@@ -101,6 +101,14 @@ export default {
       ],
       "pilots": [
         {
+          "callsign": "Bingo",
+          "alias": "Nahil Gambino",
+          "code": "k5eqn7zt-626b-yivb-2xa7-jdbojeguwtt5///NDL-C-DEEP-STATION//472ghdu5-jv44-9egj-ipxc-a1ffuemndnog",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Big Money No Whammies"
+        },
+        {
           "callsign": "Sabre",
           "alias": "Hatice Bywater",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
