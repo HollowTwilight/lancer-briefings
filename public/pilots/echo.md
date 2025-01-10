@@ -2,7 +2,7 @@ Cathie Catherine Ezekiel-Dake grew up under the bright lights and glitter of the
 
 But right before she begun to sing, she looked down at the crowd gathered to listen to her. These people were dirty, rugged, and hungry-looking; not in the mood to hear a song. And before she could say a word of comfort to everyone, alarms began to blare as a pirate raid out of nowhere struck the small planet. The personal defense forces that came with here were only enough to get Cathie to safety, but not protect any of the townsfolk, leaving them to their fates against the pirates as the transport door closed and their ship began it's ascent and escape from the system.
 
-As soon as she returned, Cathie would train to become a pilot, showing a surpringly high aptitude for it. A few years would pass and Cathie would acquire her license, joining up with the Mirrorsmoke Mercenary Company, as no major corporation was willing to hire her at the time.
+As soon as she returned, Cathie would train to become a pilot, showing a surpringly high aptitude for it through the use of neural implants. A few years would pass and Cathie would acquire her license, joining up with the Mirrorsmoke Mercenary Company, as no major corporation was willing to hire her at the time.
 
 **TACTICS**
 
