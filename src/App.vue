@@ -149,8 +149,8 @@ export default {
         "ring": "Soya-Line",
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Detachment #853",
-        "subheaderSubtitle": "ALPHA-LIMA-TANGO-ZULU",
+        "subheaderTitle": "MNS Zealous",
+        "subheaderSubtitle": "Detachment #853",
       },
       "options":{
         "eventsMarkdownPerMission": true
