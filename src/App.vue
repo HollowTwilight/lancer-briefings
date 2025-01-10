@@ -89,18 +89,13 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
+      "mission_slug": "001",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "001",
           "name": "Operation: Rabbit's Foot",
-          "status": "start"
-        },
-        {
-          "slug": "002",
-          "name": "Operation: Shattered Mirror",
           "status": "start"
         },
       ],
