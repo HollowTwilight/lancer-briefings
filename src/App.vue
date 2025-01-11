@@ -96,7 +96,7 @@ export default {
         {
           "slug": "001",
           "name": "Operation: Rabbit's Foot",
-          "status": "start"
+          "status": "success"
         },
       ],
       "pilots": [
