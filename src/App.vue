@@ -110,7 +110,7 @@ export default {
         },
                 {
           "callsign": "THE DOCTOR",
-          "alias": "Alexandr Durniok IV",
+          "alias": "Dr. Alexandr Durniok IV",
           "code": "68pb8rt7-gi8o-v69c-ssi4-n9gtxkatso01///NDL-C-DEEP-STATION//zevl2a3v-4f4v-rbe9-7wzrl-sckz9tl125h",
           "corpro": "GMS",
           "frame": "Everest",
