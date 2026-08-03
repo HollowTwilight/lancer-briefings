@@ -1,0 +1,503 @@
+{
+    "id": "f6318cdb-2b34-4ac8-b797-18c2e2ec2916",
+    "level": 0,
+    "callsign": "Blackbird",
+    "name": "Yun Lin Yeoman",
+    "player_name": "",
+    "status": "ACTIVE",
+    "dead": false,
+    "text_appearance": "",
+    "notes": "<p><br></p>",
+    "history": "",
+    "quirks": [],
+    "current_hp": 6,
+    "background": "Second Choice",
+    "resistances": [],
+    "portrait": "",
+    "cloud_portrait": "https://ds69h3g1zxwgy.cloudfront.net/9b1a592d-289c-4f8a-8bf1-ca14237be0c4/images/SubjectOne.webp",
+    "group": "",
+    "sort_index": 2,
+    "cc_ver": "",
+    "isDeleted": false,
+    "expireTime": "",
+    "deleteTime": "",
+    "lastModified": "Sun Aug 02 2026 06:19:20 GMT-0700 (Pacific Daylight Time)",
+    "lastUpdate_cloud": "Sun Aug 02 2026 06:19:20 GMT-0700 (Pacific Daylight Time)",
+    "lastSync": "Sun Aug 02 2026 06:19:20 GMT-0700 (Pacific Daylight Time)",
+    "skills": [
+        {
+            "id": "sk_charm",
+            "rank": 1
+        },
+        {
+            "id": "sk_invent_or_create",
+            "rank": 1
+        },
+        {
+            "id": "sk_survive",
+            "rank": 1
+        },
+        {
+            "id": "sk_word_on_the_street",
+            "rank": 1
+        }
+    ],
+    "talents": [
+        {
+            "id": "t_crack_shot",
+            "rank": 1
+        },
+        {
+            "id": "t_skirmisher",
+            "rank": 1
+        },
+        {
+            "id": "t_walking_armory",
+            "rank": 1
+        }
+    ],
+    "mechSkills": [
+        2,
+        0,
+        0,
+        0
+    ],
+    "core_bonuses": [],
+    "licenses": [],
+    "reserves": [],
+    "orgs": [],
+    "counter_data": [],
+    "custom_counters": [],
+    "special_equipment": {
+        "PilotGear": [],
+        "Frames": [],
+        "MechWeapons": [],
+        "WeaponMods": [],
+        "MechSystems": []
+    },
+    "bondId": "",
+    "xp": 0,
+    "stress": 0,
+    "isBroken": false,
+    "burdens": [],
+    "bondPowers": [],
+    "powerSelections": 0,
+    "maxStress": 8,
+    "bondAnswers": [
+        "",
+        ""
+    ],
+    "minorIdeal": "",
+    "clocks": [],
+    "combat_history": {
+        "moves": 0,
+        "kills": 0,
+        "damage": 0,
+        "hp_damage": 0,
+        "structure_damage": 0,
+        "overshield": 0,
+        "heat_damage": 0,
+        "reactor_damage": 0,
+        "overcharge_uses": 0,
+        "core_uses": 0
+    },
+    "state": {
+        "active_mech_id": "d6b288ef-de5c-4203-961f-2fef217ec685",
+        "remote_mech_id": "",
+        "stage": "Narrative",
+        "turn": 1,
+        "mission": 0,
+        "actions": 2,
+        "braced": false,
+        "overcharged": false,
+        "prepare": false,
+        "bracedCooldown": false,
+        "redundant": false,
+        "stats": {
+            "moves": 0,
+            "kills": 0,
+            "damage": 0,
+            "hp_damage": 0,
+            "structure_damage": 0,
+            "overshield": 0,
+            "heat_damage": 0,
+            "reactor_damage": 0,
+            "overcharge_uses": 0,
+            "core_uses": 0
+        },
+        "deployed": []
+    },
+    "loadout": {
+        "name": "Loadout",
+        "armor": [
+            {
+                "id": "pg_mobility_hardsuit",
+                "note": "",
+                "flavorName": "",
+                "flavorDescription": "",
+                "customDamageType": null,
+                "destroyed": false,
+                "uses": 0,
+                "cascading": false
+            }
+        ],
+        "weapons": [
+            {
+                "id": "pg_heavy_signature",
+                "note": "",
+                "flavorName": "",
+                "flavorDescription": "",
+                "customDamageType": null,
+                "destroyed": false,
+                "uses": 0,
+                "cascading": false
+            },
+            {
+                "id": "pg_light_signature",
+                "note": "",
+                "flavorName": "",
+                "flavorDescription": "",
+                "customDamageType": null,
+                "destroyed": false,
+                "uses": 0,
+                "cascading": false
+            }
+        ],
+        "gear": [
+            {
+                "id": "pg_corrective",
+                "note": "",
+                "flavorName": "",
+                "flavorDescription": "",
+                "customDamageType": null,
+                "destroyed": false,
+                "uses": 0,
+                "cascading": false
+            },
+            {
+                "id": "pg_thermite_charge",
+                "note": "",
+                "flavorName": "",
+                "flavorDescription": "",
+                "customDamageType": null,
+                "destroyed": false,
+                "uses": 0,
+                "cascading": false
+            },
+            {
+                "id": "pg_stims",
+                "note": "",
+                "flavorName": "",
+                "flavorDescription": "",
+                "customDamageType": null,
+                "destroyed": false,
+                "uses": 0,
+                "cascading": false
+            }
+        ],
+        "extendedWeapons": [],
+        "extendedGear": []
+    },
+    "mechs": [
+        {
+            "id": "d6b288ef-de5c-4203-961f-2fef217ec685",
+            "name": "Time and Motion",
+            "notes": "",
+            "gm_note": "",
+            "frame": "mf_sagarmatha",
+            "active": false,
+            "current_structure": 0,
+            "current_move": 0,
+            "boost": 0,
+            "current_hp": 0,
+            "overshield": 0,
+            "current_stress": 0,
+            "current_heat": 0,
+            "current_repairs": 0,
+            "current_overcharge": 0,
+            "current_core_energy": 1,
+            "statuses": [],
+            "conditions": [],
+            "resistances": [],
+            "reactions": [],
+            "burn": 0,
+            "destroyed": false,
+            "defeat": "",
+            "activations": 1,
+            "meltdown_imminent": false,
+            "reactor_destroyed": false,
+            "core_active": false,
+            "portrait": "",
+            "cloud_portrait": "https://d2c79xe1p61csc.cloudfront.net/frames/mf_tortuga.png",
+            "cc_ver": "ERR",
+            "lastModified": "Mon Aug 03 2026 12:54:17 GMT-0700 (Pacific Daylight Time)",
+            "isDeleted": false,
+            "expireTime": "",
+            "deleteTime": "",
+            "counter_data": [],
+            "custom_counters": [],
+            "loadouts": [
+                {
+                    "id": "022912ce-2018-42ea-bedd-e34fa8092722",
+                    "name": "Primary",
+                    "systems": [
+                        {
+                            "id": "ms_custom_paint_job",
+                            "flavorName": "",
+                            "flavorDescription": "",
+                            "destroyed": false,
+                            "uses": 0,
+                            "cascading": false
+                        },
+                        {
+                            "id": "ms_personalizations",
+                            "flavorName": "",
+                            "flavorDescription": "",
+                            "destroyed": false,
+                            "uses": 0,
+                            "cascading": false
+                        },
+                        {
+                            "id": "ms_armament_redundancy",
+                            "flavorName": "",
+                            "flavorDescription": "",
+                            "destroyed": false,
+                            "uses": 0,
+                            "cascading": false
+                        },
+                        {
+                            "id": "ms_turret_drones",
+                            "flavorName": "",
+                            "flavorDescription": "",
+                            "destroyed": false,
+                            "uses": 0,
+                            "cascading": false
+                        },
+                        {
+                            "id": "ms_expanded_compartment",
+                            "flavorName": "",
+                            "flavorDescription": "",
+                            "destroyed": false,
+                            "uses": 0,
+                            "cascading": false
+                        }
+                    ],
+                    "integratedSystems": [
+                        {
+                            "id": "ms_walking_armory_1",
+                            "data": {
+                                "id": "ms_walking_armory_1",
+                                "name": "Ammo Case I",
+                                "talent_item": true,
+                                "talent_id": "t_walking_armory",
+                                "talent_rank": 1,
+                                "sp": 0,
+                                "tags": [
+                                    {
+                                        "id": "tg_limited",
+                                        "val": 6
+                                    },
+                                    {
+                                        "id": "tg_turn",
+                                        "val": 1
+                                    }
+                                ],
+                                "license": "GMS",
+                                "license_level": 0,
+                                "effect": "1/turn, when you attack with a Main ranged weapon, you may expend charges to apply one of the following effects to your attack at the listed cost.",
+                                "ammo": [
+                                    {
+                                        "name": "Thumper",
+                                        "detail": "The attack gains Knockback 1 and deals Explosive damage.",
+                                        "allowed_sizes": [
+                                            "Main"
+                                        ],
+                                        "allowed_types": [
+                                            "cqb",
+                                            "rifle",
+                                            "launcher",
+                                            "cannon",
+                                            "nexus"
+                                        ]
+                                    },
+                                    {
+                                        "name": "Shock",
+                                        "detail": "The attack deals Energy damage. Choose one character targeted by your attack; adjacent characters take 1 Energy AP, whether the result is a hit or miss.",
+                                        "allowed_sizes": [
+                                            "Main"
+                                        ],
+                                        "allowed_types": [
+                                            "cqb",
+                                            "rifle",
+                                            "launcher",
+                                            "cannon",
+                                            "nexus"
+                                        ]
+                                    },
+                                    {
+                                        "name": "Mag",
+                                        "detail": "The attack gains Arcing and deals Kinetic damage.",
+                                        "allowed_sizes": [
+                                            "Main"
+                                        ],
+                                        "allowed_types": [
+                                            "cqb",
+                                            "rifle",
+                                            "launcher",
+                                            "cannon",
+                                            "nexus"
+                                        ]
+                                    }
+                                ],
+                                "description": "Gained from the <i>Walking Armory: Rank I</i> pilot talent."
+                            },
+                            "note": "",
+                            "flavorName": "",
+                            "flavorDescription": "",
+                            "maxUses": 6,
+                            "currentUses": 0,
+                            "destroyed": false,
+                            "isUsed": false
+                        }
+                    ],
+                    "mounts": [
+                        {
+                            "mount_type": "Main",
+                            "lock": false,
+                            "slots": [
+                                {
+                                    "size": "Main",
+                                    "weapon": {
+                                        "id": "mw_assault_rifle",
+                                        "note": "",
+                                        "mod": null,
+                                        "flavorName": "",
+                                        "flavorDescription": "",
+                                        "selectedProfile": 0,
+                                        "customDamageType": null,
+                                        "maxUseOverride": 0,
+                                        "destroyed": false,
+                                        "uses": 0,
+                                        "cascading": false,
+                                        "loaded": true
+                                    }
+                                }
+                            ],
+                            "extra": [],
+                            "bonus_effects": [],
+                            "modifiable": true
+                        },
+                        {
+                            "mount_type": "Flex",
+                            "lock": true,
+                            "slots": [
+                                {
+                                    "size": "Flex",
+                                    "weapon": null
+                                }
+                            ],
+                            "extra": [
+                                {
+                                    "size": "Auxiliary",
+                                    "weapon": null
+                                }
+                            ],
+                            "bonus_effects": [],
+                            "modifiable": true
+                        },
+                        {
+                            "mount_type": "Heavy",
+                            "lock": false,
+                            "slots": [
+                                {
+                                    "size": "Heavy",
+                                    "weapon": {
+                                        "id": "mw_cyclone_pulse_rifle",
+                                        "note": "",
+                                        "mod": null,
+                                        "flavorName": "",
+                                        "flavorDescription": "",
+                                        "selectedProfile": 0,
+                                        "customDamageType": null,
+                                        "maxUseOverride": 0,
+                                        "destroyed": false,
+                                        "uses": 0,
+                                        "cascading": false,
+                                        "loaded": true
+                                    }
+                                }
+                            ],
+                            "extra": [],
+                            "bonus_effects": [],
+                            "modifiable": true
+                        }
+                    ],
+                    "integratedMounts": [],
+                    "improved_armament": {
+                        "mount_type": "Flex",
+                        "lock": false,
+                        "slots": [
+                            {
+                                "size": "Flex",
+                                "weapon": null
+                            }
+                        ],
+                        "extra": [
+                            {
+                                "size": "Auxiliary",
+                                "weapon": null
+                            }
+                        ],
+                        "bonus_effects": [],
+                        "modifiable": true
+                    },
+                    "superheavy_mounting": {
+                        "mount_type": "Superheavy",
+                        "lock": false,
+                        "slots": [
+                            {
+                                "size": "Superheavy",
+                                "weapon": null
+                            }
+                        ],
+                        "extra": [],
+                        "bonus_effects": [],
+                        "modifiable": true
+                    },
+                    "integratedWeapon": {
+                        "mount_type": "Aux",
+                        "lock": false,
+                        "slots": [
+                            {
+                                "size": "Auxiliary",
+                                "weapon": null
+                            }
+                        ],
+                        "extra": [],
+                        "bonus_effects": [],
+                        "modifiable": true
+                    },
+                    "extraMounts": [],
+                    "extraIntegratedMounts": []
+                }
+            ],
+            "active_loadout_index": 0
+        }
+    ],
+    "brews": [
+        {
+            "LcpId": "MMhitef+jvmY2uy9kdaCSXKJSeA=",
+            "LcpName": "Lancer Wallflower Data",
+            "LcpVersion": "3.0.4",
+            "Website": "https://massif-press.itch.io/no-room-for-a-wallflower-act-1",
+            "V3": true
+        },
+        {
+            "LcpId": "05B2PGxewZ193c4GaHDBoE2sl8U=",
+            "LcpName": "LANCER: Dustgrave",
+            "LcpVersion": "2.0.2",
+            "Website": "https://massif-press.itch.io/dustgrave",
+            "V3": true
+        }
+    ]
+}
