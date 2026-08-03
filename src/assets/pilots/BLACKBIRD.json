@@ -259,7 +259,7 @@
                         },
                         {
                             "id": "ms_armament_redundancy",
-                            "flavorName": "",
+                            "flavorName": "Armament Redundancy",
                             "flavorDescription": "",
                             "destroyed": false,
                             "uses": 0,
