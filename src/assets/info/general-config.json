@@ -2,18 +2,18 @@
   "initialSlug": "001",
   "planetPath": "/planet.webm",
   "animate": true,
-  "defaultTitle": "UNS |",
-  "icon": "/faction-logos/union.svg",
+  "defaultTitle": "SOTW |",
+  "icon": "/faction-logos/barony.svg",
   "header": {
-    "planet": "Nov Elysia",
-    "year": "5026u",
-    "system": "Cressidium",
-    "gate": "Rainer",
-    "ring": "Cascade",
-    "headerTitle": "UNS-CV",
-    "headerSubtitle": "Rio Grande",
-    "subheaderTitle": "Diplomacy",
-    "subheaderSubtitle": "Lancer Strike Group"
+    "planet": "Karrakis",
+    "year": "5016u",
+    "system": "Throne Karrakis",
+    "gate": "Grand Teton Station",
+    "ring": "Rocky Mountain",
+    "headerTitle": "KTB",
+    "headerSubtitle": "Karrakin Cavalry College",
+    "subheaderTitle": "Onboarding",
+    "subheaderSubtitle": "Student Logs"
   },
   "pilotSpecialInfo": {}
 }

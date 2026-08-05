@@ -1,0 +1,19 @@
+{
+  "initialSlug": "001",
+  "planetPath": "/planet.webm",
+  "animate": true,
+  "defaultTitle": "UNS |",
+  "icon": "/faction-logos/union.svg",
+  "header": {
+    "planet": "Nov Elysia",
+    "year": "5026u",
+    "system": "Cressidium",
+    "gate": "Rainer",
+    "ring": "Cascade",
+    "headerTitle": "UNS-CV",
+    "headerSubtitle": "Rio Grande",
+    "subheaderTitle": "Diplomacy",
+    "subheaderSubtitle": "Lancer Strike Group"
+  },
+  "pilotSpecialInfo": {}
+}
