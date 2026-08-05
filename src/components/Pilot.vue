@@ -141,6 +141,7 @@ import longrimData from 'lancer-longrim-data'
 
 import wallflowerData from '@/assets/LCPs/wallflower-data-2.0.5'
 import dustgraveData from '@/assets/LCPs/dustgrave-data-1.4.0'
+
 /*Append the datasets within computed if your LCP has new items.
 EX:
 pilotGear() {
