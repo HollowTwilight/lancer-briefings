@@ -1,0 +1,395 @@
+{
+    "id": "a126781e-b6ac-421f-9ead-153ec4746eca",
+    "level": 2,
+    "callsign": "Warlock",
+    "name": "Olwen Blackbird",
+    "player_name": "",
+    "status": "ACTIVE",
+    "dead": false,
+    "text_appearance": "",
+    "notes": "",
+    "history": "",
+    "quirks": [],
+    "current_hp": 7,
+    "background": "Noble Heir",
+    "resistances": [],
+    "portrait": "",
+    "cloud_portrait": "https://ds69h3g1zxwgy.cloudfront.net/dbb20043-3e6b-4072-bba6-d3cdbf9a8e71/images/1322d9ca439009840ed1a61f3d6efab9a36d53941.jpeg",
+    "group": "",
+    "sort_index": 0,
+    "cc_ver": "",
+    "isDeleted": false,
+    "expireTime": "",
+    "deleteTime": "",
+    "lastModified": "Thu Aug 06 2026 02:05:17 GMT-0700 (Pacific Daylight Time)",
+    "lastUpdate_cloud": "Thu Aug 06 2026 02:05:17 GMT-0700 (Pacific Daylight Time)",
+    "lastSync": "Thu Aug 06 2026 02:05:17 GMT-0700 (Pacific Daylight Time)",
+    "skills": [
+        {
+            "id": "sk_act_unseen_or_unheard",
+            "rank": 1
+        },
+        {
+            "id": "sk_charm",
+            "rank": 1
+        },
+        {
+            "id": "sk_lead_or_inspire",
+            "rank": 1
+        },
+        {
+            "id": "sk_pull_rank",
+            "rank": 1
+        },
+        {
+            "id": "sk_take_control",
+            "rank": 1
+        },
+        {
+            "id": "sk_take_someone_out",
+            "rank": 1
+        }
+    ],
+    "talents": [
+        {
+            "id": "t_leader",
+            "rank": 2
+        },
+        {
+            "id": "t_technophile",
+            "rank": 2
+        },
+        {
+            "id": "t_empath",
+            "rank": 1
+        }
+    ],
+    "mechSkills": [
+        2,
+        0,
+        2,
+        0
+    ],
+    "core_bonuses": [],
+    "licenses": [
+        {
+            "id": "mf_emperor",
+            "rank": 2,
+            "stub": {
+                "id": "mf_emperor",
+                "name": "Emperor",
+                "source": "SSC",
+                "frameName": "emperor",
+                "brew": {
+                    "LcpId": "l2LyED6bpwu6FATD80SCqegdxvE=",
+                    "LcpName": "Lancer KTB Data",
+                    "LcpVersion": "2.0.2",
+                    "Website": "https://massif-press.itch.io/field-guide-the-karrakin-trade-baronies",
+                    "Status": "MISSING",
+                    "V3": true
+                }
+            }
+        }
+    ],
+    "reserves": [],
+    "orgs": [],
+    "counter_data": [
+        {
+            "id": "ctr_leader",
+            "name": "Leadership Dice",
+            "default_value": 0,
+            "min": 0,
+            "max": 6
+        }
+    ],
+    "custom_counters": [],
+    "special_equipment": {
+        "PilotGear": [],
+        "Frames": [],
+        "MechWeapons": [],
+        "WeaponMods": [],
+        "MechSystems": []
+    },
+    "bondId": "",
+    "xp": 0,
+    "stress": 0,
+    "isBroken": false,
+    "burdens": [],
+    "bondPowers": [],
+    "powerSelections": 0,
+    "maxStress": 8,
+    "bondAnswers": [
+        "",
+        ""
+    ],
+    "minorIdeal": "",
+    "clocks": [],
+    "combat_history": {
+        "moves": 0,
+        "kills": 0,
+        "damage": 0,
+        "hp_damage": 0,
+        "structure_damage": 0,
+        "overshield": 0,
+        "heat_damage": 0,
+        "reactor_damage": 0,
+        "overcharge_uses": 0,
+        "core_uses": 0
+    },
+    "state": {
+        "active_mech_id": "65b7360a-27cd-499f-b051-3100bc62fa96",
+        "remote_mech_id": "",
+        "stage": "Narrative",
+        "turn": 1,
+        "mission": 0,
+        "actions": 2,
+        "braced": false,
+        "overcharged": false,
+        "prepare": false,
+        "bracedCooldown": false,
+        "redundant": false,
+        "stats": {
+            "moves": 0,
+            "kills": 0,
+            "damage": 0,
+            "hp_damage": 0,
+            "structure_damage": 0,
+            "overshield": 0,
+            "heat_damage": 0,
+            "reactor_damage": 0,
+            "overcharge_uses": 0,
+            "core_uses": 0
+        },
+        "deployed": []
+    },
+    "loadout": {
+        "name": "Loadout",
+        "armor": [],
+        "weapons": [],
+        "gear": [],
+        "extendedWeapons": [],
+        "extendedGear": []
+    },
+    "mechs": [
+        {
+            "id": "65b7360a-27cd-499f-b051-3100bc62fa96",
+            "name": "Cognitive Dissonance",
+            "notes": "<p><br></p>",
+            "gm_note": "",
+            "frame": "mf_emperor",
+            "active": false,
+            "current_structure": 0,
+            "current_move": 0,
+            "boost": 0,
+            "current_hp": 0,
+            "overshield": 0,
+            "current_stress": 0,
+            "current_heat": 0,
+            "current_repairs": 0,
+            "current_overcharge": 0,
+            "current_core_energy": 1,
+            "statuses": [],
+            "conditions": [],
+            "resistances": [],
+            "reactions": [],
+            "burn": 0,
+            "destroyed": false,
+            "defeat": "",
+            "activations": 1,
+            "meltdown_imminent": false,
+            "reactor_destroyed": false,
+            "core_active": false,
+            "portrait": "",
+            "cloud_portrait": "",
+            "cc_ver": "ERR",
+            "lastModified": "Thu Aug 06 2026 02:05:21 GMT-0700 (Pacific Daylight Time)",
+            "isDeleted": false,
+            "expireTime": "",
+            "deleteTime": "",
+            "counter_data": [
+                {
+                    "id": "ctr_leader",
+                    "name": "Leadership Dice",
+                    "default_value": 0,
+                    "min": 0,
+                    "max": 6
+                }
+            ],
+            "custom_counters": [],
+            "loadouts": [
+                {
+                    "id": "d746c00e-80a1-41ed-b7b5-ad4d12a7942e",
+                    "name": "Primary",
+                    "systems": [
+                        {
+                            "id": "ms_dominions_breadth",
+                            "flavorName": "",
+                            "flavorDescription": "",
+                            "destroyed": false,
+                            "uses": 0,
+                            "cascading": false
+                        },
+                        {
+                            "id": "ms_the_imperial_eye",
+                            "flavorName": "",
+                            "flavorDescription": "",
+                            "destroyed": false,
+                            "uses": 0,
+                            "cascading": false
+                        },
+                        {
+                            "id": "ms_armament_redundancy",
+                            "flavorName": "",
+                            "flavorDescription": "",
+                            "destroyed": false,
+                            "uses": 0,
+                            "cascading": false
+                        },
+                        {
+                            "id": "ms_custom_paint_job",
+                            "flavorName": "",
+                            "flavorDescription": "",
+                            "destroyed": false,
+                            "uses": 0,
+                            "cascading": false
+                        },
+                        {
+                            "id": "ms_personalizations",
+                            "flavorName": "",
+                            "flavorDescription": "",
+                            "destroyed": false,
+                            "uses": 0,
+                            "cascading": false
+                        },
+                        {
+                            "id": "ms_technophile_2",
+                            "flavorName": "",
+                            "flavorDescription": "",
+                            "destroyed": false,
+                            "uses": 0,
+                            "cascading": false
+                        },
+                        {
+                            "id": "ms_type_3_projected_shield",
+                            "flavorName": "",
+                            "flavorDescription": "",
+                            "destroyed": false,
+                            "uses": 0,
+                            "cascading": false
+                        }
+                    ],
+                    "integratedSystems": [],
+                    "mounts": [
+                        {
+                            "mount_type": "Main",
+                            "lock": false,
+                            "slots": [
+                                {
+                                    "size": "Main",
+                                    "weapon": {
+                                        "id": "mw_assault_rifle",
+                                        "note": "",
+                                        "mod": null,
+                                        "flavorName": "",
+                                        "flavorDescription": "",
+                                        "selectedProfile": 0,
+                                        "customDamageType": null,
+                                        "maxUseOverride": 0,
+                                        "destroyed": false,
+                                        "uses": 0,
+                                        "cascading": false,
+                                        "loaded": true
+                                    }
+                                }
+                            ],
+                            "extra": [],
+                            "bonus_effects": [],
+                            "modifiable": true
+                        }
+                    ],
+                    "integratedMounts": [
+                        {
+                            "weapon": {
+                                "id": "mw_emperor_integrated",
+                                "note": "",
+                                "mod": null,
+                                "flavorName": "",
+                                "flavorDescription": "",
+                                "selectedProfile": 0,
+                                "customDamageType": null,
+                                "maxUseOverride": 0,
+                                "destroyed": false,
+                                "uses": 0,
+                                "cascading": false,
+                                "loaded": true
+                            }
+                        }
+                    ],
+                    "improved_armament": {
+                        "mount_type": "Flex",
+                        "lock": false,
+                        "slots": [
+                            {
+                                "size": "Flex",
+                                "weapon": null
+                            }
+                        ],
+                        "extra": [
+                            {
+                                "size": "Auxiliary",
+                                "weapon": null
+                            }
+                        ],
+                        "bonus_effects": [],
+                        "modifiable": true
+                    },
+                    "superheavy_mounting": {
+                        "mount_type": "Superheavy",
+                        "lock": false,
+                        "slots": [
+                            {
+                                "size": "Superheavy",
+                                "weapon": null
+                            }
+                        ],
+                        "extra": [],
+                        "bonus_effects": [],
+                        "modifiable": true
+                    },
+                    "integratedWeapon": {
+                        "mount_type": "Aux",
+                        "lock": false,
+                        "slots": [
+                            {
+                                "size": "Auxiliary",
+                                "weapon": null
+                            }
+                        ],
+                        "extra": [],
+                        "bonus_effects": [],
+                        "modifiable": true
+                    },
+                    "extraMounts": [],
+                    "extraIntegratedMounts": []
+                }
+            ],
+            "active_loadout_index": 0
+        }
+    ],
+    "brews": [
+        {
+            "LcpId": "l2LyED6bpwu6FATD80SCqegdxvE=",
+            "LcpName": "Lancer KTB Data",
+            "LcpVersion": "2.0.2",
+            "Website": "https://massif-press.itch.io/field-guide-the-karrakin-trade-baronies",
+            "V3": true
+        },
+        {
+            "LcpId": "05B2PGxewZ193c4GaHDBoE2sl8U=",
+            "LcpName": "LANCER: Dustgrave",
+            "LcpVersion": "2.0.2",
+            "Website": "https://massif-press.itch.io/dustgrave",
+            "V3": true
+        }
+    ]
+}
